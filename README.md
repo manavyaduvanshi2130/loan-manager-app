@@ -1,16 +1,9 @@
-# loan_management_system
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# loan-manager-app
+its a loan manager, it helps to tracks loans and other loan related enquiry , emi calculations and many things included in it
+=======
+# loan-manager-app
+its a loan manager, it helps to tracks loans and other loan related enquiry , emi calculations and many things included in it
+=======
+# loan-manager-app
+its a loan manager, it helps to tracks loans and other loan related enquiry , emi calculations and many things included in it 
+>>>>>>> cfb3be8e2ba0828f3a3e47901f0897123c56caa4
